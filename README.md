@@ -171,3 +171,4 @@ The solution will always be in a seperate file. The solution provided will be on
 ## Lessons
 
 - [01 - Story Boarding](lessons/01-story-boarding/readme.md)
+- [02 - Intro the story](lessons/02-intro-the-story/readme.md)

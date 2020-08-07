@@ -6,7 +6,29 @@ Welcome to the first session! This session will be covering getting to know the 
 
 ## Problem
 
-We need to create an introduction for our game! If you are using the example game we want the fox to say hello! :)
+We need to create an introduction for our game! For our example game we will have two characters. The fox who will be a red fox and the dog who we will have be a husky pit mix.
+
+Here are our two characters now!
+
+### The Fox
+
+![Fox](../../docs/images/fox.jpg)
+
+### The Lazy Dog
+
+![Lazy Dog](../../docs/images/dog.jpg)
+
+### Scene
+
+Since we are designing a little text adventure lets put together a little story! Our game will take place in the backyard of a farm house where our mischivious fox will be seeking to steal the filling in a berry pie.
+
+### Acceptance Criteria
+
+- The script should greet the user.
+
+### Coding bits
+
+- You will be using the `print` function in order to greet the user.
 
 ## Pre-requisits
 
@@ -16,4 +38,4 @@ We need to create an introduction for our game! If you are using the example gam
 
 ## Solution
 
-The solution will always be in a seperate file. The solution provided will be one of many potential solutions because as with all programming, you have many ways you can solve a problem. You are always welcome to skip to the solution if you get stuck but please try to solve the problem before looking at the solution.
+You can view the solution in the `./solution.py`
