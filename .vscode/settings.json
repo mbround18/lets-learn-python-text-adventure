@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "venv/bin/python3.8",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "html.format.endWithNewline": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.autoSave": "onFocusChange"
+}

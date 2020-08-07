@@ -1,0 +1,3 @@
+# Lets get these requirements installed.
+rich 
+invoke
